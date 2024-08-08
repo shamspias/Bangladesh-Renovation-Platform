@@ -21,8 +21,8 @@ can help improve governmental functions and community life.
 
 ## How to Contribute
 
-Please read the CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests to us.
+Please read the (CONTRIBUTING)[CONTRIBUTING.md] for details on our code of conduct and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the (LICENSE)[LICENSE] file for details.
